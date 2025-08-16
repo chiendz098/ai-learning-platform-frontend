@@ -98,3 +98,5 @@ uploads/
 *.jpeg
 *.gif
 *.svg
+
+.vercel
